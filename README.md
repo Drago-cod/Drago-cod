@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Drago%20Samuel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=Drago%20Samuel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Drago Samuel</h2>
+<h2 align="center">Hi 👋, I'm Drago Samuel Jared</h2>
 
 <p align="center">
-  <b style="color:#38bdf8;">Building Ideas into Reality</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;React+Developer;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
-  💻 Frontend Developer | 🎨 UI/UX Designer | 🚀 Creative Thinker
+  <b style="color:#38bdf8;">Building Modern Digital Experiences</b>
+</p>
+
+<p align="center">
+  💻 Software Developer | 🎨 UI/UX Designer | 🚀 Tech Enthusiast
 </p>
 
 ---
@@ -24,7 +28,12 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,github,figma,vscode,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,github,figma,vscode,photoshop,illustrator,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Affinity-222?style=for-the-badge&logo=affinity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
@@ -65,7 +74,7 @@
 
 ## ⚡ Fun Facts
 - 🎧 I code with music in the background  
-- 🌙 I love late-night coding  
+- 🌙 I enjoy late-night coding  
 - 📈 Always learning new frontend trends  
 
 ---
